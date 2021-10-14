@@ -2,7 +2,7 @@
 # Hi, I'm João Paulo Kiyoshi! 👋
 
   
-![Logo](https://iili.io/5qBMTF.md.jpg) <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jpkiyoshi/jpkiyoshi/blob/main/devcard.svg" width="370" alt="João Paulo Kiyoshi's Dev Card"/></a>
+![Logo](https://iili.io/5qBMTF.md.jpg) <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jpkiyoshi/jpkiyoshi/blob/main/devcard.svg" width="400" alt="João Paulo Kiyoshi's Dev Card"/></a>
 
     
 ## 🚀 About Me
