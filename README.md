@@ -2,7 +2,7 @@
 # Hi, I'm João Paulo Kiyoshi! 👋
 
   
-![Logo](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1fe08cec-0bbc-4bf3-9c8d-6a5643bfbc02/Avatar_GitHub_JP.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211014%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211014T173524Z&X-Amz-Expires=86400&X-Amz-Signature=89b66540f00ff08ab2308078065c797a27e3a9401a3ba39e5a05327db5e2e8c7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Avatar%2520GitHub%2520JP.jpg%22)
+![Logo](https://iili.io/5qBMTF.md.jpg)
     
 ## 🚀 About Me
 Extremely driven Front-End Software Engineer with a background in Physical Education pursuing entry-level opportunities for applying and improving ReactJS skills in a Front-End Software Engineering role. Skilled in HTML, CSS, JavaScript, React, Web Design, and some experience with Back-End languages like Python, Java, and NodeJS.
