@@ -1,5 +1,5 @@
 
-# Hi, I'm João P. Kiyoshi! 👋
+# Hi, I'm JP Kiyoshi! 👋
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jpkiyoshi/jpkiyoshi/blob/main/devcard.svg" width="400" alt="João P. Kiyoshi's Dev Card"/></a>
 
